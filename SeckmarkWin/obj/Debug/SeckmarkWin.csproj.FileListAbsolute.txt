@@ -1,0 +1,11 @@
+E:\Secmark1\SeckmarkWin\SeckmarkWin\bin\Debug\SeckmarkWin.exe.config
+E:\Secmark1\SeckmarkWin\SeckmarkWin\bin\Debug\SeckmarkWin.exe
+E:\Secmark1\SeckmarkWin\SeckmarkWin\bin\Debug\SeckmarkWin.pdb
+E:\Secmark1\SeckmarkWin\SeckmarkWin\obj\Debug\SeckmarkWin.csproj.AssemblyReference.cache
+E:\Secmark1\SeckmarkWin\SeckmarkWin\obj\Debug\SeckmarkWin.csproj.SuggestedBindingRedirects.cache
+E:\Secmark1\SeckmarkWin\SeckmarkWin\obj\Debug\SeckmarkWin.Form1.resources
+E:\Secmark1\SeckmarkWin\SeckmarkWin\obj\Debug\SeckmarkWin.Properties.Resources.resources
+E:\Secmark1\SeckmarkWin\SeckmarkWin\obj\Debug\SeckmarkWin.csproj.GenerateResource.cache
+E:\Secmark1\SeckmarkWin\SeckmarkWin\obj\Debug\SeckmarkWin.csproj.CoreCompileInputs.cache
+E:\Secmark1\SeckmarkWin\SeckmarkWin\obj\Debug\SeckmarkWin.exe
+E:\Secmark1\SeckmarkWin\SeckmarkWin\obj\Debug\SeckmarkWin.pdb
